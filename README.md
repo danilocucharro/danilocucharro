@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 My name is Danilo Cucharro and I'm from Brazil.<br/>
 Learning JavaScript and its ecosystem :man_technologist:<br/>
-Junior web developer :smile:
+Web developer :smile:
 
