@@ -1,12 +1,14 @@
+[![MasterHead](https://www.conceptseating.com/wp-content/uploads/2021/01/Market-Programming-Banner.jpg)](https://github.com/danilocucharro)
 <h1 align="center">Hi 👋, I'm Danilo Cucharro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/3odR.gif">
+
+<img align="right" alt="Coding" width="400" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilocucharro&label=Profile%20views&color=0e75b6&style=flat" alt="danilocucharro" /> </p>
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [I'm working on it...](I'm working on it...)
+- 👨‍💻 All of my projects are available at [I'm working on it...]
 
 - 💬 Ask me about **HTML, CSS, JS, React, Firebase, MySQL**
 
