@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danilocucharro&label=Profile%20views&color=0e75b6&style=flat" alt="danilocucharro" /> </p>
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [I'm working on it...]
 
-- 💬 Ask me about **HTML, CSS, JS, React, Firebase, MySQL**
+- 💬 Ask me about **HTML, CSS, JS, TS, React, MySQL**
 
 - 📫 How to reach me **danicucharro@outlook.com**
 
